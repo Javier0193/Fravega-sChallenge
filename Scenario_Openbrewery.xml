@@ -1,0 +1,21 @@
+<component name="ProjectRunConfigurationManager">
+    <configuration default="false" name="Scenario: Openbrewery" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" nameIsGenerated="true">
+        <option name="CUCUMBER_CORE_VERSION" value="4" />
+        <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/modelo.feature" />
+        <option name="GLUE" value="org.example net.serenitybdd.cucumber.actors" />
+        <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+        <module name="Challenge" />
+        <option name="NAME_FILTER" value="^Openbrewery$" />
+        <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter --name &quot;^Openbrewery$&quot;" />
+        <option name="SUGGESTED_NAME" value="Scenario: Openbrewery" />
+        <extension name="coverage">
+            <pattern>
+                <option name="PATTERN" value="cucumber.api.cli.*" />
+                <option name="ENABLED" value="true" />
+            </pattern>
+        </extension>
+        <method v="2">
+            <option name="Make" enabled="true" />
+        </method>
+    </configuration>
+</component>
